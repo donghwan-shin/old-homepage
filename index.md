@@ -8,122 +8,29 @@ I received BS, MS, and PhD in computer science in 2010, 2012, and 2018, respecti
 
 * * *
 
-[Publications](./pages/publications.html)
+## Publications
 
-[Projects](./pages/projects.html)
+### International Journal Articles
+[ij.6] "Empirical Evaluation of Mutation-based Test Case Prioritization Techniques", **Donghwan Shin**, Shin Yoo, Mike Papadakis, and Doo-Hwan Bae. *Software Testing, Verification and Reliability (STVR)*, 2018 (Online-first, doi: 10.1002/stvr.1695)
 
-There should be whitespace between paragraphs.
+[ij.5]	A Theoretical and Empirical Study of Diversity-aware Mutation Adequacy Criterion.
+Donghwan Shin, Shin Yoo, and Doo-Hwan Bae.
+IEEE Transactions on Software Engineering (TSE), Vol. 44, No. 10, pp. 914-931, 2018.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[ij.4]	Comprehensive analysis of FBD test coverage criteria using mutants.
+Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae.
+Software & Systems Modeling (SoSyM), Vol. 15, No. 3, pp. 631-645, 2016.
 
-# Header 1
+[ij.3]	Human Resource Allocation in Software Project with Practical Considerations.
+Jihun Park, Dongwon Seo, Gwangui Hong, Donghwan Shin, Jimin Hwa, and Doo-Hwan Bae.
+International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2015
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[ij.2]	Automated test case generation for FBD programs implementing reactor protection system software.
+Eunkyoung Jee, Donghwan Shin, Sungdeok Cha, Jang‐Soo Lee, and Doo‐Hwan Bae.
+Software Testing, Verification and Reliability (STVR), Vol. 24, No. 8, pp. 608-628, 2014
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[ij.1]	Identification of Quality Improvement Strategies using COPQ in Software Industry.
+Yeong-Seok Seo, Donghwan Shin, Gookhyun Kim, Jongmoon Baik, and Doo-Hwan Bae.
+International Journal of Performability Engineering, 2012.
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
