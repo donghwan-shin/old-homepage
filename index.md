@@ -46,3 +46,165 @@ I received BS, MS, and PhD in computer science in 2010, 2012, and 2018, respecti
 
 [ic.1]	**Donghwan Shin**, Eunkyoung Jee, and Doo-Hwan Bae. "Empirical evaluation on FBD model-based test coverage criteria using mutation analysis", *ACM/IEEE Model Driven Engineering Languages and Systems (MoDELS 2012)*, pp. 465-479, 2012. (acceptance rate: 23%)
 
+
+### Domestic Journal Articles
+
+[dj.7]	An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification.
+Junho Kim, Donghwan Shin, and Doo-Hwan Bae.
+KIISE Transactions on Computing Practices, Vol. 23, No. 4, pp. 256-261, 2017. (in Korean)
+
+[dj.6]	A Case Study for Mutation-Based Fault Localization for FBD Programs.
+Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae.
+KIISE Transactions on Computing Practice, Vol. 22, No. 3, pp. 145-150, 2016. (in Korean)
+
+[dj.5]	Lessons learned from application of model checking and testing techniques to reactor protection system software for safety assurance.
+Eunkyung Jee, Donghwan Shin, and D00-Hwan Bae.
+Communications of KIISE, Vol. 33, No. 7, pp. 15-26, 2015. (in Korean)
+
+[dj.4]	Quality-Based Software Project Staffing and Scheduling with Project Deadline.
+Dongwon Seo, Donghwan Shin, and D00-Hwan Bae.
+Journal of KIISE, Vol. 42, No. 7, pp. 878-888, 2015. (in Korean)
+
+[dj.3]	Definition of Mutation Operators for FBD Models and Case Study.
+Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae.
+Journal of KIISE: Computing Practices and Letters, Vol. 19, No. 1. pp. 36-40, 2013. (in Korean)
+
+[dj.2]	Automatic Project Planning Technique and Tool based on Software Industry Requirements.
+Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Jimin Hwa, Gigon Bae, Yeoung-Seok Seo, and D00-Hwan Bae.
+Journal of Software Engineering Society, Vol. 26, No. 4, pp. 77-92, 2013. (in Korean)
+
+[dj.1]	Automated Human Resource Allocation based on Practical Feedback from Software Industry.
+Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, D00-Hwan Bae.
+Journal of KIISE: Software and Applications, Vol. 40, No. 7, pp. 369-380, 2013. (in Korean)
+
+### Domestic Conference and Workshop Papers
+
+[dc.10]	A Case Study of Modeling and Simulation of a Blockchain Consensus Algorithm.
+Eunkyoung Jee, Youlim Jung, Junghun Yoo, Donghwan Shin, and Doo-Hwan Bae.
+Korea Software Conference, pp. 438-440, 2018.
+
+[dc.9]	System-of-Systems-level Goal Achievement Verification Tool.
+Mingu Jin, Donghwan Shin, and D00-Hwan Bae.
+Korea Computer Congress (KCC), pp. 552-554, 2017. (in Korean)
+
+[dc.8]	A Case Study of Action-Benefit-Cost Modeling and Statistical Model Checking for System-of-Systems Property Verification.
+Junho Kim, Donghwan Shin, and D00-Hwan Bae.
+Korea Computer Congress (KCC), pp. 256-261, 2016. (in Korean)
+Outstanding Presentation Award
+
+[dc.7]	Quality Based Software Project Staffing and Scheduling with Time Bound.
+Dongwon Seo, Donghwan Shin, and Doo-Hwan Bae.
+Korea Conference on Software Engineering (KCSE), 2015. (in Korean)
+Best Paper Award
+
+[dc.6]	Applicability of Mutation-Based Fault Localization for FBD Programs.
+Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae.
+Korea Computer Congress (KCC), pp. 567-569, 2015. (in Korean)
+Outstanding Presentation Award
+
+[dc.5]	Verification Framework for Autonomous Collaboration of Smart Devices.
+Gwangui Hong, Yoo Jin Lim, Eunkyoung Jee, Donghwan Shin, and D00-Hwan Bae.
+Korea Computer Congress (KCC), pp. 454-456, 2014. (in Korean)
+
+[dc.4]	Formal Verification of Self-Adaptive Healthcare System: Case Study and Analysis.
+Yoo Jin Lim, Donghwan Shin, Eunkyoung Jee, Jihun Park, and Doo-Hwan Bae.
+Korea Conference on Software Engineering (KCSE), pp. 15-22, 2014. (in Korean)
+
+[dc.3]	Automatic Project Planning Technique and Tool Considering Practical Requirements.
+Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Gigon Bae, Yeong-Seok Seo, and Doo-Hwan Bae.
+Korea Conference on Software Engineering (KCSE), 2014. (in Korean)
+Outstanding Paper Award
+
+[dc.2]	An Approach to Automated Human Resource Allocation including Practical Issues in Software Projects.
+Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, and Doo-Hwan Bae.
+Korea Conference on Software Engineering (KCSE), pp. 111-112, 2013. (in Korean)
+Best Paper Award
+
+[dc.1]	Definition of Mutation Operators for FBD Models.
+Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae.
+Korea Computer Congress (KCC), pp. 184-186, 2012. (in Korean)
+Outstanding Presentation Award
+
+
+### Submitted Articles and Papers
+
+[s.1]	Scalable Inference of System-level Models from Component Logs.
+Donghwan Shin, Salma Messaoudi, Domenico Bianculli, Annibale Panichella, Lionel Briand, and Raimondas Sasnauskas
+IEEE/ACM International Conference on Automated Software Engineering (ASE 2019), under review
+
+
+
+## Awards and Honors
+
+Outstanding PhD Thesis Award
+School of Computing, KAIST	Feb 2018
+
+Outstanding Presentation Award
+KCC 2016 [dc.8]	Sep 2016
+
+Outstanding Presentation Award
+KCC 2015 [dc.6]	Jul 2015
+
+Outstanding Teaching Assistant Award
+CS408 Computer Science Project, KAIST	Mar 2015
+
+Best Paper Award
+KCSE 2015 [dc.7]	Feb 2015
+
+Outstanding Paper Award
+KCSE 2014 [dc.3]	Jan 2014
+
+STX Scholarship Foundation Scholarship
+Tuition and academic grant covered for Ph.D. studies ($10K per year)	Mar 2013 – Feb 2015
+
+Best Paper Award
+KCSE 2013 [dc.2]	Jan 2013
+
+Outstanding Presentation Award
+KCC 2012 [dc.1]	Jul 2012
+
+Outstanding Teaching Assistant Award
+CS350 Introduction to Software Engineering, KAIST	Sep 2011
+
+STX Scholarship Foundation Scholarship
+Tuition and academic grant covered for M.S. studies ($10K per year)	Mar 2011 – 2012 Aug
+
+KAIST CS Scholarship
+Merit-based scholarships for 8 semesters	Mar 2007 – Aug 2010
+
+SHINHAN Scholarship Foundation Scholarship
+Tuition and academic grant covered for B.S. studies ($8K per year)	Sep 2006 – Aug 2010
+
+
+## Projects
+
+
+Artificial Intelligence for Safety Critical Complex Systems
+IEE, Luxembourg	Jan 2019 - present
+
+LISTENER: Log-driven, Search-based Test Generation for Ground Control Systems
+SES Engineering, Luxembourg	Aug 2018 - present
+
+Modeling and Verification of FBA Consensus Algorithm based on SCP and mFBA Consensus Algorithm of BlockchainOS
+BlockchainOS inc., Korea	Feb 2018 – Aug 2018
+
+(SW STAR LAB) Software R&D for Model-based Analysis and Verification of Higher-order Large Complex System
+Ministry of Science, ICT and Future Planning, Korea	Mar 2015 – Aug 2018
+
+Development of Software Modeling and Verification Techniques for Achieving Capabilities and Assuring Safety of System of Systems
+KAIST-Daedeok Innopolis RED&B, Daejeon, Korea	Mar 2015 – Nov 2015
+
+Open Source Software Stability Measure
+Samsung Electronics	Apr 2015 – Nov 2015
+
+Development of Autonomous Intelligent Collaboration Framework for Knowledge Bases and Smart Devices
+Ministry of Science, ICT and Future Planning, Korea	May 2013 – Feb 2016
+
+Software Quality Prediction Model based on Weapon System Process
+LIG Nex1	Feb 2012 – May 2013
+
+Process Tailoring for Defense Software
+Agency for Defense Development (ADD), Korea	Jul 2010 – Dec 2014
+
+Software COPQ Prediction Model Development
+LG Electronics	Jun 2011 – Dec 2011
