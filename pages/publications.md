@@ -4,6 +4,8 @@ layout: default
 
 # Publications
 
+* * *
+
 ## International Journal Articles
 [ij.6] Donghwan Shin, Shin Yoo, Mike Papadakis, and Doo-Hwan Bae. ["Empirical Evaluation of Mutation-based Test Case Prioritization Techniques"](https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1695), *Software Testing, Verification and Reliability (STVR)*, 2018 (Online-first, doi: 10.1002/stvr.1695) 
 
