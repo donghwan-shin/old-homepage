@@ -2,9 +2,6 @@
 layout: default
 ---
 
-*(THIS PAGE IS UNDER CONSTRUCTION)*
-
-
 # Publications
 
 ## International Journal Articles
@@ -46,47 +43,46 @@ layout: default
 
 ## Domestic Journal Articles
 
-[dj.7]	Junho Kim, Donghwan Shin, and Doo-Hwan Bae. "An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification", KIISE Transactions on Computing Practices, Vol. 23, No. 4, pp. 256-261, 2017. (in Korean)
+[dj.7]	Junho Kim, Donghwan Shin, and Doo-Hwan Bae. ["An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification"](https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07153954), *KIISE Transactions on Computing Practices*, Vol. 23, No. 4, pp. 256-261, 2017. (in Korean)
 
-[dj.6]	Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae. "A Case Study for Mutation-Based Fault Localization for FBD Programs", 
-KIISE Transactions on Computing Practice, Vol. 22, No. 3, pp. 145-150, 2016. (in Korean)
+[dj.6]	Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae. ["A Case Study for Mutation-Based Fault Localization for FBD Programs"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06617094), *KIISE Transactions on Computing Practice*, Vol. 22, No. 3, pp. 145-150, 2016. (in Korean)
 
-[dj.5]	Eunkyung Jee, Donghwan Shin, and Doo-Hwan Bae. "Lessons learned from application of model checking and testing techniques to reactor protection system software for safety assurance", Communications of KIISE, Vol. 33, No. 7, pp. 15-26, 2015. (in Korean)
+[dj.5]	Eunkyung Jee, Donghwan Shin, and Doo-Hwan Bae. ["Lessons learned from application of model checking and testing techniques to reactor protection system software for safety assurance"](http://www.dbpia.co.kr/Article/NODE06384203), *Communications of KIISE*, Vol. 33, No. 7, pp. 15-26, 2015. (in Korean)
 
-[dj.4]	Dongwon Seo, Donghwan Shin, and Doo-Hwan Bae. "Quality-Based Software Project Staffing and Scheduling with Project Deadline", Journal of KIISE, Vol. 42, No. 7, pp. 878-888, 2015. (in Korean)
+[dj.4]	Dongwon Seo, Donghwan Shin, and Doo-Hwan Bae. ["Quality-Based Software Project Staffing and Scheduling with Project Deadline"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06381346), *Journal of KIISE*, Vol. 42, No. 7, pp. 878-888, 2015. (in Korean)
 
-[dj.3]	Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae. "Definition of Mutation Operators for FBD Models and Case Study", Journal of KIISE: Computing Practices and Letters, Vol. 19, No. 1. pp. 36-40, 2013. (in Korean)
+[dj.3]	Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae. ["Definition of Mutation Operators for FBD Models and Case Study"](http://se.kaist.ac.kr/ekjee/paper/JKIISE2013-donghwan.pdf), *Journal of KIISE: Computing Practices and Letters*, Vol. 19, No. 1. pp. 36-40, 2013. (in Korean)
 
-[dj.2]	Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Jimin Hwa, Gigon Bae, Yeoung-Seok Seo, and Doo-Hwan Bae. "Automatic Project Planning Technique and Tool based on Software Industry Requirements", Journal of Software Engineering Society, Vol. 26, No. 4, pp. 77-92, 2013. (in Korean)
+[dj.2]	Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Jimin Hwa, Gigon Bae, Yeoung-Seok Seo, and Doo-Hwan Bae. ["Automatic Project Planning Technique and Tool based on Software Industry Requirements"](http://se.kaist.ac.kr/jhpark/files/JSES-2013.12.pdf), *Journal of Software Engineering Society*, Vol. 26, No. 4, pp. 77-92, 2013. (in Korean)
 
-[dj.1]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, D00-Hwan Bae. "Automated Human Resource Allocation based on Practical Feedback from Software Industry", Journal of KIISE: Software and Applications, Vol. 40, No. 7, pp. 369-380, 2013. (in Korean)
+[dj.1]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, Doo-Hwan Bae. ["Automated Human Resource Allocation based on Practical Feedback from Software Industry"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02204963), *Journal of KIISE: Software and Applications*, Vol. 40, No. 7, pp. 369-380, 2013. (in Korean)
 
 ## Domestic Conference and Workshop Papers
 
-[dc.10]	Eunkyoung Jee, Youlim Jung, Junghun Yoo, Donghwan Shin, and Doo-Hwan Bae. "A Case Study of Modeling and Simulation of a Blockchain Consensus Algorithm", Korea Software Conference, pp. 438-440, 2018.
+[dc.10]	Eunkyoung Jee, Youlim Jung, Junghun Yoo, Donghwan Shin, and Doo-Hwan Bae. ["A Case Study of Modeling and Simulation of a Blockchain Consensus Algorithm"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613634), *Korea Computer Congress (KCC)*, pp. 438-440, 2018.
 
-[dc.9]	Mingu Jin, Donghwan Shin, and D00-Hwan Bae. "System-of-Systems-level Goal Achievement Verification Tool", Korea Computer Congress (KCC), pp. 552-554, 2017. (in Korean)
+[dc.9]	Mingu Jin, Donghwan Shin, and Doo-Hwan Bae. ["System-of-Systems-level Goal Achievement Verification Tool"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07207302), *Korea Computer Congress (KCC)*, pp. 552-554, 2017. (in Korean)
 
-[dc.8]	Junho Kim, Donghwan Shin, and D00-Hwan Bae. "A Case Study of Action-Benefit-Cost Modeling and Statistical Model Checking for System-of-Systems Property Verification", Korea Computer Congress (KCC), pp. 256-261, 2016. (in Korean) 
+[dc.8]	Junho Kim, Donghwan Shin, and Doo-Hwan Bae. ["A Case Study of Action-Benefit-Cost Modeling and Statistical Model Checking for System-of-Systems Property Verification"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017590), *Korea Computer Congress (KCC)*, pp. 256-261, 2016. (in Korean) 
 **Outstanding Presentation Award**
 
-[dc.7]	Dongwon Seo, Donghwan Shin, and Doo-Hwan Bae. "Quality Based Software Project Staffing and Scheduling with Time Bound", Korea Conference on Software Engineering (KCSE), 2015. (in Korean) 
+[dc.7]	Dongwon Seo, Donghwan Shin, and Doo-Hwan Bae. ["Quality Based Software Project Staffing and Scheduling with Time Bound"](http://se.kaist.ac.kr/paper/kor_proceeding/20150302_KCSE2015_DongwonSeo.pdf), *Korea Conference on Software Engineering (KCSE)*, 2015. (in Korean) 
 **Best Paper Award**
 
-[dc.6]	Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae. "Applicability of Mutation-Based Fault Localization for FBD Programs", Korea Computer Congress (KCC), pp. 567-569, 2015. (in Korean)
+[dc.6]	Donghwan Shin, Wonkyong Yun, Junho Kim, Eunkyung Jee, and Doo-Hwan Bae. ["Applicability of Mutation-Based Fault Localization for FBD Programs"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06394146), *Korea Computer Congress (KCC)*, pp. 567-569, 2015. (in Korean)
 **Outstanding Presentation Award**
 
-[dc.5]	Gwangui Hong, Yoo Jin Lim, Eunkyoung Jee, Donghwan Shin, and D00-Hwan Bae. "Verification Framework for Autonomous Collaboration of Smart Devices", Korea Computer Congress (KCC), pp. 454-456, 2014. (in Korean)
+[dc.5]	Gwangui Hong, Yoo Jin Lim, Eunkyoung Jee, Donghwan Shin, and Doo-Hwan Bae. ["Verification Framework for Autonomous Collaboration of Smart Devices"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02444059), *Korea Computer Congress (KCC)*, pp. 454-456, 2014. (in Korean)
 
-[dc.4]	Yoo Jin Lim, Donghwan Shin, Eunkyoung Jee, Jihun Park, and Doo-Hwan Bae. "Formal Verification of Self-Adaptive Healthcare System: Case Study and Analysis", Korea Conference on Software Engineering (KCSE), pp. 15-22, 2014. (in Korean)
+[dc.4]	Yoo Jin Lim, Donghwan Shin, Eunkyoung Jee, Jihun Park, and Doo-Hwan Bae. ["Formal Verification of Self-Adaptive Healthcare System: Case Study and Analysis"](http://se.kaist.ac.kr/ekjee/paper/KCSE2014-yjlim.pdf), *Korea Conference on Software Engineering (KCSE)*, pp. 15-22, 2014. (in Korean)
 
-[dc.3]	Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Gigon Bae, Yeong-Seok Seo, and Doo-Hwan Bae. "Automatic Project Planning Technique and Tool Considering Practical Requirements", Korea Conference on Software Engineering (KCSE), 2014. (in Korean)
+[dc.3]	Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Gigon Bae, Yeong-Seok Seo, and Doo-Hwan Bae. ["Automatic Project Planning Technique and Tool Considering Practical Requirements"](http://143.248.118.33/handle/10203/199339), *Korea Conference on Software Engineering (KCSE)*, 2014. (in Korean)
 **Outstanding Paper Award**
 
-[dc.2]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, and Doo-Hwan Bae. "An Approach to Automated Human Resource Allocation including Practical Issues in Software Projects", Korea Conference on Software Engineering (KCSE), pp. 111-112, 2013. (in Korean)
+[dc.2]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, and Doo-Hwan Bae. ["An Approach to Automated Human Resource Allocation including Practical Issues in Software Projects"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02204963), *Korea Conference on Software Engineering (KCSE)*, pp. 111-112, 2013. (in Korean)
 **Best Paper Award**
 
-[dc.1]	Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae. "Definition of Mutation Operators for FBD Models", Korea Computer Congress (KCC), pp. 184-186, 2012. (in Korean)
+[dc.1]	Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae. ["Definition of Mutation Operators for FBD Models"](http://se.kaist.ac.kr/ekjee/paper/KCC2012-donghwan.pdf), *Korea Computer Congress (KCC)*, pp. 184-186, 2012. (in Korean)
 **Outstanding Presentation Award**
 
 
