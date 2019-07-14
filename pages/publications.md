@@ -17,6 +17,7 @@ layout: default
 
 [ij.1]	Yeong-Seok Seo, *Donghwan Shin*, Gookhyun Kim, Jongmoon Baik, and Doo-Hwan Bae. ["Identification of Quality Improvement Strategies using COPQ in Software Industry"](https://www.researchgate.net/profile/Donghwan_Shin/publication/274084972_Identification_of_Quality_Improvement_Strategies_using_COPQ_in_Software_Industry/links/55163f0a0cf2f7d80a36aa21.pdf), *International Journal of Performability Engineering*, 2012.
 
+* * *
 
 ## International Conference and Workshop Papers
 
@@ -40,6 +41,7 @@ layout: default
 
 [ic.1]	*Donghwan Shin*, Eunkyoung Jee, and Doo-Hwan Bae. ["Empirical evaluation on FBD model-based test coverage criteria using mutation analysis"](https://doi.org/10.1007/978-3-642-33666-9_30), *ACM/IEEE Model Driven Engineering Languages and Systems (MoDELS 2012)*, pp. 465-479, 2012. (acceptance rate: 23%)
 
+* * *
 
 ## Domestic Journal Articles
 
@@ -56,6 +58,8 @@ layout: default
 [dj.2]	Jihun Park, Donghwan Shin, Gwangui Hong, Dongwon Seo, Jimin Hwa, Gigon Bae, Yeoung-Seok Seo, and Doo-Hwan Bae. ["Automatic Project Planning Technique and Tool based on Software Industry Requirements"](http://se.kaist.ac.kr/jhpark/files/JSES-2013.12.pdf), *Journal of Software Engineering Society*, Vol. 26, No. 4, pp. 77-92, 2013. (in Korean)
 
 [dj.1]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, Doo-Hwan Bae. ["Automated Human Resource Allocation based on Practical Feedback from Software Industry"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02204963), *Journal of KIISE: Software and Applications*, Vol. 40, No. 7, pp. 369-380, 2013. (in Korean)
+
+* * *
 
 ## Domestic Conference and Workshop Papers
 
@@ -85,9 +89,12 @@ layout: default
 [dc.1]	Donghwan Shin, Eunkyoung Jee, and Doo-Hwan Bae. ["Definition of Mutation Operators for FBD Models"](http://se.kaist.ac.kr/ekjee/paper/KCC2012-donghwan.pdf), *Korea Computer Congress (KCC)*, pp. 184-186, 2012. (in Korean)
 **Outstanding Presentation Award**
 
+* * *
 
 ## Submitted Articles and Papers
 
 [s.1]	Donghwan Shin, Salma Messaoudi, Domenico Bianculli, Annibale Panichella, Lionel Briand, and Raimondas Sasnauskas. "Scalable Inference of System-level Models from Component Logs", *IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)*, under review
+
+* * *
 
 [back](./../)
