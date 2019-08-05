@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+### Projects
 
 [p.10] Artificial Intelligence for Safety Critical Complex Systems,
 *IEE*, Luxembourg	(Jan 2019 - present)
