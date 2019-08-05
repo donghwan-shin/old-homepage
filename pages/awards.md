@@ -5,7 +5,7 @@ layout: default
 *(THIS PAGE IS UNDER CONSTRUCTION)*
 
 
-# Awards and Honors
+### Awards and Honors
 
 Outstanding PhD Thesis Award
 School of Computing, KAIST	(Feb 2018)

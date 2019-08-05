@@ -19,6 +19,8 @@ More reference: [Google Scholar](https://scholar.google.co.kr/citations?user=6uS
 
 ### [Projects](./pages/projects.html)
 
+### [Services](./pages/services.html)
+
 ### [Awards and Honors](./pages/awards.html)
 
 

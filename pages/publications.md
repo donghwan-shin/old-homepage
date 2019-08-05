@@ -2,11 +2,12 @@
 layout: default
 ---
 
-# Publications
+## Publications
 
 * * *
 
-## International Journal Articles
+### International Journal Articles
+
 [ij.6] Donghwan Shin, Shin Yoo, Mike Papadakis, and Doo-Hwan Bae. ["Empirical Evaluation of Mutation-based Test Case Prioritization Techniques"](https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1695), *Software Testing, Verification and Reliability (STVR)*, 2018 (Online-first, doi: 10.1002/stvr.1695) 
 
 [ij.5]	*Donghwan Shin*, Shin Yoo, and Doo-Hwan Bae. ["A Theoretical and Empirical Study of Diversity-aware Mutation Adequacy Criterion"](http://ieeexplore.ieee.org/document/7994647/), *IEEE Transactions on Software Engineering (TSE)*, Vol. 44, No. 10, pp. 914-931, 2018. [source](https://github.com/donghwan-shin/Diversity-aware-Mutation-Testing)
@@ -21,7 +22,7 @@ layout: default
 
 * * *
 
-## International Conference and Workshop Papers
+### International Conference and Workshop Papers
 
 [ic.10]	Junghun Yoo, Youlim Jung, *Donghwan Shin*, Minhyo Bae and Eunkyoung Jee. ["Formal Modeling and Verification of a Federated Byzantine Agreement Algorithm for Blockchain Platforms"](https://ieeexplore.ieee.org/document/8666514), *IEEE International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2019)*, pp. 11-21, 2019.
 
@@ -45,7 +46,7 @@ layout: default
 
 * * *
 
-## Domestic Journal Articles
+### Domestic Journal Articles
 
 [dj.7]	Junho Kim, Donghwan Shin, and Doo-Hwan Bae. ["An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification"](https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07153954), *KIISE Transactions on Computing Practices*, Vol. 23, No. 4, pp. 256-261, 2017. (in Korean)
 
@@ -61,9 +62,10 @@ layout: default
 
 [dj.1]	Jimin Hwa, Jihun Park, Donghwan Shin, Gwangui Hong, Yeoung-Seok Seo, Gigon Bae, Doo-Hwan Bae. ["Automated Human Resource Allocation based on Practical Feedback from Software Industry"](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02204963), *Journal of KIISE: Software and Applications*, Vol. 40, No. 7, pp. 369-380, 2013. (in Korean)
 
+
 * * *
 
-## Domestic Conference and Workshop Papers
+### Domestic Conference and Workshop Papers
 
 [dc.10]	Eunkyoung Jee, Youlim Jung, Junghun Yoo, Donghwan Shin, and Doo-Hwan Bae. ["A Case Study of Modeling and Simulation of a Blockchain Consensus Algorithm"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613634), *Korea Computer Congress (KCC)*, pp. 438-440, 2018.
 
@@ -93,7 +95,7 @@ layout: default
 
 * * *
 
-## Submitted Articles and Papers
+### Submitted Articles and Papers
 
 [s.1]	Donghwan Shin, Salma Messaoudi, Domenico Bianculli, Annibale Panichella, Lionel Briand, and Raimondas Sasnauskas. "Scalable Inference of System-level Models from Component Logs", *IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)*, under review
 
