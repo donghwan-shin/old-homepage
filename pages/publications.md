@@ -24,6 +24,8 @@ layout: default
 
 ### International Conference and Workshop Papers
 
+[ic.11] Fitash Ul Haq, *Donghwan Shin*, Shiva Nejati and Lionel Briand, ["Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study"](https://arxiv.org/abs/1912.00805), *IEEE International Conference on Software Testing, Verification and Validation (ICST 2020)*, accepted (acceptance rate: 24%)
+
 [ic.10]	Junghun Yoo, Youlim Jung, *Donghwan Shin*, Minhyo Bae and Eunkyoung Jee. ["Formal Modeling and Verification of a Federated Byzantine Agreement Algorithm for Blockchain Platforms"](https://ieeexplore.ieee.org/document/8666514), *IEEE International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2019)*, pp. 11-21, 2019.
 
 [ic.9]	Mike Papadakis, *Donghwan Shin*, Shin Yoo, and Doo-Hwan Bae. ["Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical study on the Relationship Between Mutants and Real Faults"](https://dl.acm.org/citation.cfm?doid=3180155.3180183), *ACM/IEEE International Conference on Software Engineering (ICSE 2018)*, pp. 537-548, 2018. (acceptance rate: 20.9%)
@@ -95,9 +97,15 @@ layout: default
 
 * * *
 
+### Pre-prints (ArXiv)
+
+[p.1]	Donghwan Shin, Salma Messaoudi, Domenico Bianculli, Annibale Panichella, Lionel Briand, and Raimondas Sasnauskas. "Scalable Inference of System-level Models from Component Logs", arXiv preprint arXiv:1908.02329.
+
+* * *
+
 ### Submitted Articles and Papers
 
-[s.1]	Donghwan Shin, Salma Messaoudi, Domenico Bianculli, Annibale Panichella, Lionel Briand, and Raimondas Sasnauskas. "Scalable Inference of System-level Models from Component Logs", *IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)*, under review
+...
 
 * * *
 
